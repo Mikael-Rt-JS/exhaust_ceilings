@@ -1,2 +1,3 @@
-# exhaust_ceilings
-Сервис вытяжных потолков
+# stretch_ceiling
+Stretch ceiling specialist
+Мастер по вытяжным потолкам
